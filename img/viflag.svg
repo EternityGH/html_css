@@ -1,0 +1,9 @@
+<svg id="Component_6_17" data-name="Component 6 – 17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="21" viewBox="0 0 28 21">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 15 10">
+      <image width="15" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAAA8AAAAKBAMAAACZNRnKAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAMFBMVEXYACflSDHZCCj7xkHaDinyjzr7xUH/2kTZAyf3qz7ZBij5tz/pXDPbEyrbESkAAADVni3LAAAAAWJLR0QPGLoA2QAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+QFFBQ3FMdow2kAAAAnSURBVAjXY2DABhhhDGUFCO2anuoAZnBMnwER4dqzC8LgffAWqxkA22YGJ2kBOrkAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <rect id="Rectangle_704" data-name="Rectangle 704" width="28" height="21" rx="2" fill="#ddd9d8" opacity="0"/>
+  <rect id="vietnam" width="22" height="15" transform="translate(3 3)" fill="url(#pattern)"/>
+</svg>

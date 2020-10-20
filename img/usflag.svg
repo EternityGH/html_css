@@ -1,0 +1,9 @@
+<svg id="Component_7_17" data-name="Component 7 – 17" xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" width="28" height="21" viewBox="0 0 28 21">
+  <defs>
+    <pattern id="pattern" preserveAspectRatio="none" width="100%" height="100%" viewBox="0 0 16 10">
+      <image width="16" height="10" xlink:href="data:image/png;base64,iVBORw0KGgoAAAANSUhEUgAAABAAAAAKCAMAAACKYC6uAAAABGdBTUEAALGPC/xhBQAAACBjSFJNAAB6JgAAgIQAAPoAAACA6AAAdTAAAOpgAAA6mAAAF3CculE8AAAAb1BMVEUuUrIxVLPw8PAzVrSMntBMa7xyishvh8dRb72LntA2WLTeO1kzVrN5j8pDY7lpgsVlf8RGZbo0V7TiaH5decE/YLdTcL5BYbhgesHopbEvU7Jqg8VWc79Ucb5FZbkwU7LYACebq9XcLEzkeIsAAABkI1WQAAAAAWJLR0QktAb5mQAAAAlwSFlzAAALEgAACxIB0t1+/AAAAAd0SU1FB+QFFBQ3FbBv8/8AAABOSURBVAjXXcxHEoAgEAXRj5glGFFMoN7/jrqYcjGvet2AgPhCQiDTLC/Kqm4IlDa27XQ/EKhxcm5epCdYN7Mfpw2R4CL/9GbwMPAMIvMCh9oNyhW8+vkAAAAASUVORK5CYII="/>
+    </pattern>
+  </defs>
+  <rect id="Rectangle_705" data-name="Rectangle 705" width="28" height="21" rx="2" fill="#ddd9d8" opacity="0"/>
+  <rect id="united-states-of-america" width="22" height="15" transform="translate(3 3)" fill="url(#pattern)"/>
+</svg>
